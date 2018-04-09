@@ -1,2 +1,2 @@
-# 8x8-Matrix-Byte-Generator
-8x8 Matrix generator
+# p5js_sketch
+Showing how to host p5.js sketch with github pages
